@@ -1,2 +1,2 @@
-# iup_project
-Projct for iup, dedicated to enhanced the level of coding programs
+# pharm_project
+Projct for iup, dedicated to enhanc the level of coding softwares.
